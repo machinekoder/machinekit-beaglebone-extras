@@ -10,15 +10,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1920"
-   height="1080"
+   width="1024"
+   height="768"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
    inkscape:export-filename="/home/adrien/Dropbox/wheezy_artwork/exports/proposal_1_full/wallpaper_1920x1080.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="machinekit_background_mklogo_16x9.svg">
+   sodipodi:docname="machinekit_background_mklogo_4x3.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -84,12 +84,13 @@
        orient="auto"
        id="DistanceX"
        style="overflow:visible"
-       refX="0.0"
-       refY="0.0">
+       refX="0"
+       refY="0">
       <path
          id="path27521"
-         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
-         style="stroke:#000000; stroke-width:0.5" />
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         style="stroke:#000000;stroke-width:0.5"
+         inkscape:connector-curvature="0" />
     </marker>
     <symbol
        id="*PAPER_SPACE0-9" />
@@ -127,12 +128,13 @@
        orient="auto"
        id="DistanceX-5"
        style="overflow:visible"
-       refX="0.0"
-       refY="0.0">
+       refX="0"
+       refY="0">
       <path
          id="path34843"
-         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
-         style="stroke:#000000; stroke-width:0.5" />
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         style="stroke:#000000;stroke-width:0.5"
+         inkscape:connector-curvature="0" />
     </marker>
     <symbol
        id="*PAPER_SPACE0-3" />
@@ -170,12 +172,13 @@
        orient="auto"
        id="DistanceX-6"
        style="overflow:visible"
-       refX="0.0"
-       refY="0.0">
+       refX="0"
+       refY="0">
       <path
          id="path4913"
-         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
-         style="stroke:#000000; stroke-width:0.5" />
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         style="stroke:#000000;stroke-width:0.5"
+         inkscape:connector-curvature="0" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -186,8 +189,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.82552081"
-     inkscape:cx="512"
-     inkscape:cy="383.99999"
+     inkscape:cx="755.01048"
+     inkscape:cy="300.14847"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -195,7 +198,8 @@
      inkscape:window-height="852"
      inkscape:window-x="16"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     showborder="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -204,7 +208,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -212,7 +216,7 @@
      inkscape:label="Fond"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,27.637817)">
+     transform="translate(0,-284.36218)">
     <rect
        style="fill:#535c6f;fill-opacity:1;stroke:none"
        id="rect2985"
@@ -234,7 +238,7 @@
        sodipodi:cy="461.625"
        sodipodi:rx="43.625"
        sodipodi:ry="43.625"
-       d="m 1434.25,461.625 a 43.625,43.625 0 1 1 -0.063,-2.34686"
+       d="m 1434.25,461.625 c 0,24.09342 -19.5316,43.625 -43.625,43.625 -24.0934,0 -43.625,-19.53158 -43.625,-43.625 0,-24.09342 19.5316,-43.625 43.625,-43.625 23.1815,0 42.3148,18.13021 43.5618,41.27814"
        transform="matrix(0.71111,0,0,0.71111,-179.02281,285.99673)"
        sodipodi:start="0"
        sodipodi:end="6.2293631"
@@ -776,7 +780,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Logo">
+     inkscape:label="Logo"
+     transform="translate(0,-312)">
     <g
        style="fill:#c8c8c9;fill-opacity:1;overflow:visible"
        id="g3946"
